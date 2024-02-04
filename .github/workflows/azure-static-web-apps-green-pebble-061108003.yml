@@ -3,7 +3,7 @@ name: Azure Static Web Apps CI/CD
 env:
   APP_LOCATION: "/" # location of your client code
   API_LOCATION: "api" # location of your api source code - optional
-  OUTPUT_LOCATION: "build" # location of client code build output
+  OUTPUT_LOCATION: "public" # location of client code build output
 
 on:
   push:
