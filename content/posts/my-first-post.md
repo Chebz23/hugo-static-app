@@ -1,20 +1,22 @@
 ---
-title: "My First Post"
+title: "PWR Android app"
 date: 2024-01-26T16:54:32Z
 thumbnailImagePosition: top
 thumbnailImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_scale,w_700/v1708186018/How-to-create-a-workout-plan-1_l0to4f.jpg
 coverImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_scale,w_700/v1708186018/How-to-create-a-workout-plan-1_l0to4f.jpg
 metaAlignment: center
 coverMeta: out
+coverSize: partial
 categories:
 - new post
 - features
 tags:
-- cover image
+- Android
+- Java
+- development
 ---
 ## Introduction
 
-This is a **bold** text, and this is *emphasized* text.
 
 **In the domain of technology-driven solutions,** my journey through the development of an Android application stands as a testament to innovation and empowerment. As part of my BSc Computing & IT and Design Degree with the Open University, I embarked on a project that not only honed my skills but also aimed to revolutionise the way individuals approach their fitness routines.
 
