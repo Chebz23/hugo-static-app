@@ -46,8 +46,8 @@ canonifyurls = true
 # ------
 [author]
   name = "Terry Gallivan"
-  bio = "**Testing** the theme and build of the website/blog."
-  job = "Software Engineer"
+  bio = "Recent graduate from The Open University.              BSc Computer Science First-Class honours"
+  job = "Software Engineer/Developer"
   location = "Blackwood, Wales"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "terry.gallivan1@gmail.com"
@@ -143,7 +143,7 @@ canonifyurls = true
   # Posts related configuration
   # ---------------------------
   # Global keywords configuration. Following keywords will be add to every pages
-  #  keywords = ["development", "graduate", "software"]
+    keywords = ["development", "graduate", "software"]
 
   # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
   clearReading = true
@@ -154,7 +154,7 @@ canonifyurls = true
 
   # Display `Next` on left side of the pagination, and `Prev` on right side one.
   # If you set this value to `true`, these positions swap.
-  #  swapPaginator = true
+    swapPaginator = true
 
   # ---------------------
   # Sidebar configuration
