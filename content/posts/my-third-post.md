@@ -1,8 +1,8 @@
 ---
 title: "Setting up the site layout and post layout"
-date: 2024-02-05
+date: 2024-01-25
 author: Terry Gallivan
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_crop,h_260,w_680/v1706459641/CROP-176632724_Getty-Images-Contributor_Japan-Miyajima-Torii-Gate_pax1ev.jpg
 coverImage: https://res.cloudinary.com/dopuitmmz/image/upload/v1706459641/CROP-176632724_Getty-Images-Contributor_Japan-Miyajima-Torii-Gate_pax1ev.jpg
 metaAlignment: center

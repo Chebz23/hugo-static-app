@@ -1,6 +1,6 @@
 ---
 title: "My Second Post"
-date: 2024-01-28
+date: 2024-01-23
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_scale,w_750/c_crop,h_280,w_750/v1706458728/pexels-photo-3403098.jpeg_s2copc.jpg
 coverImage: https://res.cloudinary.com/dopuitmmz/image/upload/v1706458728/pexels-photo-3403098.jpeg_s2copc.jpg
