@@ -6,6 +6,7 @@ thumbnailImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_scale,w_750/
 coverImage: https://res.cloudinary.com/dopuitmmz/image/upload/v1706458728/pexels-photo-3403098.jpeg_s2copc.jpg
 metaAlignment: center
 coverMeta: out
+coverSize: partial
 categories:
 - new post
 - features
