@@ -15,7 +15,6 @@ tags:
 - Java
 - development
 ---
-## Introduction
 
 
 **In the domain of technology-driven solutions,** my journey through the development of an Android application stands as a testament to innovation and empowerment. As part of my BSc Computing & IT and Design Degree with the Open University, I embarked on a project that not only honed my skills but also aimed to revolutionise the way individuals approach their fitness routines.
