@@ -1,7 +1,7 @@
 ---
 title: "PWR Android app"
 date: 2024-01-29
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_scale,w_700/v1708186018/How-to-create-a-workout-plan-1_l0to4f.jpg
 coverImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_scale,w_700/v1708186018/How-to-create-a-workout-plan-1_l0to4f.jpg
 metaAlignment: center

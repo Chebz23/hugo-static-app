@@ -1,8 +1,7 @@
 ---
 title: "My Voyage with Hugo, GitHub, and Azure Static Web Apps"
-date: 2024-01-25
-author: Terry Gallivan
-thumbnailImagePosition: left
+date: 2024-02-08
+thumbnailImagePosition: top
 thumbnailImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_crop,h_500,w_1280,x_-140,y_40/v1708257925/maxresdefault_r9muyt.jpg
 coverImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_crop,h_500,w_1280,x_-140,y_40/v1708257925/maxresdefault_r9muyt.jpg
 metaAlignment: center
