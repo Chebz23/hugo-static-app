@@ -8,7 +8,7 @@ metaAlignment: center
 coverMeta: out
 coverSize: partial
 categories:
-- new post
+- first post
 - features
 tags:
 - Degree

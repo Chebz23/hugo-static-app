@@ -8,7 +8,7 @@ metaAlignment: center
 coverMeta: out
 coverSize: partial
 categories:
-- new post
+- application
 - features
 tags:
 - Android

@@ -8,10 +8,12 @@ metaAlignment: center
 coverMeta: out
 coverSize: partial
 categories:
-- new post
+- website
 - features
 tags:
-- test
+- coding
+- development
+- website
 ---
 **I’m excited to share my recent journey through the digital landscape, where I navigated the intricacies of Hugo, GitHub, and Azure Static Web Apps.** It's been quite the adventure, filled with unexpected twists and turns, but ultimately, it's been a rewarding experience that has broadened my horizons.
 
