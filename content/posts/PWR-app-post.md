@@ -1,5 +1,5 @@
 ---
-title: "PWR Android app"
+title: "Physical Workout Routine (PWR) Android app"
 date: 2024-01-29
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_scale,w_700/v1708186018/How-to-create-a-workout-plan-1_l0to4f.jpg
