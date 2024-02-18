@@ -2,8 +2,8 @@
 title: "My Voyage with Hugo, GitHub, and Azure Static Web Apps"
 date: 2024-02-08
 thumbnailImagePosition: top
-thumbnailImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_crop,h_500,w_1280,x_-140,y_40/v1708257925/maxresdefault_r9muyt.jpg
-coverImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_crop,h_500,w_1280,x_-140,y_40/v1708257925/maxresdefault_r9muyt.jpg
+thumbnailImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_scale,w_750/c_crop,h_250,w_750/v1708184690/1_P_H_UpQahH0juwQpXWXnpQ_icuccr.jpg
+coverImage: https://res.cloudinary.com/dopuitmmz/image/upload/v1708184690/1_P_H_UpQahH0juwQpXWXnpQ_icuccr.jpg
 metaAlignment: center
 coverMeta: out
 coverSize: partial
