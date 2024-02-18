@@ -2,8 +2,8 @@
 title: "From Craftmanship to Code"
 date: 2024-01-18
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_crop,h_1000,w_1700,y_0/v1708256190/10tipsforsuccessfulstudying3OP_pz9u6p.jpg
-coverImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_crop,h_1000,w_1700,y_0/v1708256190/10tipsforsuccessfulstudying3OP_pz9u6p.jpg
+thumbnailImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_crop,h_600,w_736,y_152/v1708256189/Late-Night-Studying_ce06g9.jpg
+coverImage: https://res.cloudinary.com/dopuitmmz/image/upload/c_crop,h_600,w_736,y_152/v1708256189/Late-Night-Studying_ce06g9.jpg
 metaAlignment: center
 coverMeta: out
 coverSize: partial
@@ -23,6 +23,6 @@ However, alongside my career in aerospace, I've also pursued further education. 
 
 Now, with this academic achievement under my belt, I'm looking towards the future. I'm eager to embark on a new career path in Software Engineering/Development. It's a field that has always intrigued me, and I believe my blend of practical experience and academic knowledge will serve me well in this transition.
 
-So, as I step into this new chapter of my professional life, I invite you to follow along. I'm excited to see where this journey takes me, and I'm grateful for the opportunities that lie ahead.
+So, as I step into this new chapter of my professional life, I'm excited to see where this journey takes me, and I'm grateful for the opportunities that lie ahead.
 
 Thanks for joining me on this adventure.
